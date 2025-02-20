@@ -1,1 +1,3 @@
-# dissertation_template
+### dissertation_template
+
+# Template Structure
